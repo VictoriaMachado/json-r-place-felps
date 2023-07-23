@@ -18,6 +18,21 @@
             "y": 282,
         },
         {
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/edm.png", //enigma medo
+            "x": 1600,
+            "y": 1262,
+        },
+        {
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/edm_symbols.png", //enigma simbolos
+            "x": 1264,
+            "y": 1361,
+        },
+        {
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/AmigoImaginarioFinal2.png", //amigo imaginario
+            "x": 1824,
+            "y": 1127,
+        },
+        {
             url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/cell.png", //cellbit
             "x": 601,
             "y": 362,

@@ -4,7 +4,7 @@
     {
       "name": "Felps",
       "sources": [
-        "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/felps.png"
+        "https://cdn.discordapp.com/attachments/761360235457544234/1132693614108086292/felps.png"
       ],
       "x": 0,
       "y": 429
@@ -12,7 +12,7 @@
     {
       "name": "Goulart",
       "sources": [
-        "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/gou.png"
+        "https://cdn.discordapp.com/attachments/812185959026262022/1132688664116330506/gou.png"
       ],
       "x": 741,
       "y": 344
