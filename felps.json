@@ -1,0 +1,47 @@
+{
+  "contact": "discord.gg/felps",
+  "templates": [
+    {
+      "name": "Felps",
+      "sources": [
+        "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/felps.png"
+      ],
+      "x": 0,
+      "y": 429
+    },
+    {
+      "name": "Enigma do Medo",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/800810608673030155/1132240738713870466/edm.png"
+      ],
+      "x": 1600,
+      "y": 1262
+    },
+    {
+      "name": "Enigma do Medo Symbols",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/692299918408286228/1132247261674487868/edm_symbols.png"
+      ],
+      "x": 1264,
+      "y": 1361
+    },
+    {
+      "name": "Imaginary Friend",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132439092081217566/AmigoImaginarioFinal2.png"
+      ],
+      "x": 1824,
+      "y": 1127
+    },
+    {
+      "name": "Brasil",
+      "sources": [
+        "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/place1.png"
+      ],
+      "x": 148,
+      "y": 282
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}

@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Brazil_Overlay♥
+// @name         Felps_Overlay
 // @namespace    http://tampermonkey.net/
 // @version      v2
-// @description  BRASIL PORRA!
-// @author       pedrodbr, R-BR
+// @description  '-'
+// @author       vic_walker, pedrodbr, R-BR
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        GM_xmlhttpRequest
@@ -13,32 +13,22 @@
 (() => {
     const imagens = [
         {
-            url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/place1.png", // brazil
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/place1.png", // brazil
             "x": 148,
             "y": 282,
         },
         {
-            url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/cell.png", //cellbit
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/cell.png", //cellbit
             "x": 601,
             "y": 362,
         },
         {
-            url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/Bee.png", //abelha
-            "x": 345,
-            "y": 1424,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/felps.png", //felps
+            "x": 0,
+            "y": 429,
         },
         {
-            url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/rAJ_Butterfly.png", //borboleta
-            "x": 1159,
-            "y": 852,
-        },
-        {
-            url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/cbr.png", //dbrpedro
-            "x": 176,
-            "y": 258,
-        },
-        {
-            url:"https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/gou.png", //goulart
+            url:"https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/gou.png", //goulart
             "x": 741,
             "y": 344,
         }
