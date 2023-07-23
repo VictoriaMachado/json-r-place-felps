@@ -13,7 +13,7 @@
 (() => {
     const imagens = [
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/place1.png", // brazil
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/r-brasil-place-1x.png", // brazil
             "x": 1148,
             "y": 1282,
         },
@@ -33,13 +33,23 @@
             "y": 1127,
         },
         {
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/CarenteOutline.png", //carente
+            "x": 1444,
+            "y": 1593,
+        },
+        {
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/Anfitriao.png", //anfitriao
+            "x": 1274,
+            "y": 1500,
+        },
+        {
             url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/cell.png", //cellbit
             "x": 1601,
             "y": 1362,
         },
         {
             url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/felps.png", //felps
-            "x": 1000,
+            "x": 998,
             "y": 1429,
         },
         {

@@ -4,9 +4,9 @@
     {
       "name": "Felps",
       "sources": [
-        "https://cdn.discordapp.com/attachments/761360235457544234/1132699233334603897/felps.png"
+        "https://cdn.discordapp.com/attachments/812185959026262022/1132811278029693001/felps.png"
       ],
-      "x": 1000,
+      "x": 998,
       "y": 1429
     },
     {
@@ -42,9 +42,25 @@
       "y": 1127
     },
     {
+      "name": "Carente",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132767456860065862/CarenteOutline.png"
+      ],
+      "x": 1444,
+      "y": 1593
+    },
+    {
+      "name": "Anfitrião",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/809558712725012520/1132789997255278622/Anfitriao.png"
+      ],
+      "x": 1274,
+      "y": 1500
+    },
+    {
       "name": "Brasil",
       "sources": [
-        "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/place1.png"
+        "https://media.discordapp.net/attachments/1131597998460239882/1132786831512059904/r-brasil-place-1x.png"
       ],
       "x": 1148,
       "y": 1282
