@@ -14,8 +14,8 @@
     const imagens = [
         {
             url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/place1.png", // brazil
-            "x": 148,
-            "y": 282,
+            "x": 1148,
+            "y": 1282,
         },
         {
             url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/edm.png", //enigma medo
@@ -34,18 +34,18 @@
         },
         {
             url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/cell.png", //cellbit
-            "x": 601,
-            "y": 362,
+            "x": 1601,
+            "y": 1362,
         },
         {
             url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/felps.png", //felps
-            "x": 0,
-            "y": 429,
+            "x": 1000,
+            "y": 1429,
         },
         {
             url:"https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/gou.png", //goulart
-            "x": 741,
-            "y": 344,
+            "x": 1741,
+            "y": 1344,
         }
     ];
 

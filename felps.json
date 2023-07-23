@@ -6,16 +6,16 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/761360235457544234/1132693614108086292/felps.png"
       ],
-      "x": 0,
-      "y": 429
+      "x": 1000,
+      "y": 1429
     },
     {
       "name": "Goulart",
       "sources": [
         "https://cdn.discordapp.com/attachments/812185959026262022/1132688664116330506/gou.png"
       ],
-      "x": 741,
-      "y": 344
+      "x": 1741,
+      "y": 1344
     },
     {
       "name": "Enigma do Medo",
@@ -46,8 +46,8 @@
       "sources": [
         "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/place1.png"
       ],
-      "x": 148,
-      "y": 282
+      "x": 1148,
+      "y": 1282
     }
   ],
   "whitelist": [],
