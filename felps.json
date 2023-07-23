@@ -10,6 +10,14 @@
       "y": 429
     },
     {
+      "name": "Goulart",
+      "sources": [
+        "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/gou.png"
+      ],
+      "x": 741,
+      "y": 344
+    },
+    {
       "name": "Enigma do Medo",
       "sources": [
         "https://cdn.discordapp.com/attachments/800810608673030155/1132240738713870466/edm.png"
