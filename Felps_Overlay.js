@@ -13,49 +13,59 @@
 (() => {
     const imagens = [
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/r-brasil-place-1x.png", // brazil
-            "x": 1148,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/r-brasil.png", // brazil
+            "x": 1648,
             "y": 1282,
         },
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/edm.png", //enigma medo
-            "x": 1600,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/EdM-VerissimoNovo2.png", // Enigma do Medo e Espreitador
+            "x": 2100,
             "y": 1262,
         },
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/edm_symbols.png", //enigma simbolos
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/edm_symbols.png", // RPG Symbols
             "x": 1264,
-            "y": 1361,
+            "y": 1764,
         },
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/AmigoImaginarioFinal2.png", //amigo imaginario
-            "x": 1824,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/Amigo_Imaginario.png", // Imaginary Friend
+            "x": 2324,
             "y": 1127,
         },
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/CarenteOutline.png", //carente
-            "x": 1444,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/CarenteAntena.png", // Carente
+            "x": 1892,
             "y": 1593,
         },
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/Anfitriao.png", //anfitriao
-            "x": 1274,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/Anfitriao.png", // Anfitrião
+            "x": 1774,
             "y": 1500,
         },
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/cell.png", //cellbit
-            "x": 1601,
-            "y": 1362,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/cellA_talvez_final.png", // cellA
+            "x": 2242,
+            "y": 1346,
         },
         {
-            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/felps.png", //felps
-            "x": 998,
-            "y": 1429,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/EstrangeiroContorno.png", // Estrangeiro
+            "x": 203,
+            "y": 1519,
         },
         {
-            url:"https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/gou.png", //goulart
-            "x": 1741,
-            "y": 1344,
+            url: "https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/felps.png", // Felps
+            "x": 1498,
+            "y": 1417,
+        },
+        {
+            url:"https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/srSimi.png", // SrSimi (Quackity)
+            "x": 0,
+            "y": 1797,
+        },
+        {
+            url:"https://raw.githubusercontent.com/VictoriaMachado/json-r-place-felps/main/Imagens/roger_vs_whitebeard_v02.png", // Roger v Whitebeard art (One Piece)
+            "x": 0,
+            "y": 754,
         }
     ];
 
